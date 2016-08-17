@@ -1,14 +1,14 @@
-layout_spectrum: 0.6559139
+layout_spectrum: 0.2150538
+typography_spectrum: 0.5125448
 color:
-  saturation: 0.3512545
-  lightness: 0.6810036
-  brandStrength: 0.8853046
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.8924731
   brandColors:
-    - '#E9E9EB'
-    - '#2A2B2F'
-    - '#BCBCBC'
-    - '#635D51'
-    - '#838790'
-  rhythmicContrast: 0.02739866
-typography_spectrum: 0.4874552
+    - '#010103'
+    - '#818181'
+    - '#E0DEE1'
+    - '#A9B6C6'
+    - '#535154'
+  rhythmicContrast: 1
 name: 'BB Love '
